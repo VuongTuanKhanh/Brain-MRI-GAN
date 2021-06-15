@@ -20,6 +20,9 @@
 
 The Brain MRI GAN is developed and supported by 4AM Team.
 
+# Live Demo
+You can check out the live demo [here](https://youtu.be/W3HsM7no-kg)
+
 # Team Member
 
 |Member|Responsiblitity|
